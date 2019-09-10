@@ -12,7 +12,7 @@ The following apply for the local modules only.
 * `make`
 * `python (>=3.6)`
 
-### Installation for local
+### Installation
 
 ```
 $ make install
