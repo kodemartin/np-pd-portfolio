@@ -5,7 +5,7 @@ This repository serves as a collection of modules built on top of `numpy`, `pand
 
 ## Setup
 
-The following apply for the local modules only.
+The following serve for using the local modules.
 
 ### System requirements
 
